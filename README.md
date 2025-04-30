@@ -1,0 +1,2 @@
+# ASM-Configuration
+ORACLE Manually
